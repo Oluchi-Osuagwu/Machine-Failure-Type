@@ -24,7 +24,7 @@ tool wear [min]: The amount of time the tool has been used in minutes, indicatin
 failure type: The target variable indicating the type of failure.
 
 **Data Preprocessing:** Necessary preprocessing steps were applied to the dataset. This included handling missing and duplicate values and outliers.
-Exploratory data analysis (EDA) was done for visualization and gaining of more insights on the dataset and understand the relationships between variables.
+Exploratory data analysis (EDA) was done for visualization and gaining of more insights on the dataset and understanding the relationships between variables.
 
 **Feature Engineering:** Encoded categorical variables, checked for correlation of features and performed feature scaling. 
 
