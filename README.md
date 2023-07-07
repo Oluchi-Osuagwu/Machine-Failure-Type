@@ -9,7 +9,7 @@ UID: A unique identifier ranging from 1 to 10,000.
 
 productID: A combination of a letter (L, M, or H) representing low, medium, or high product quality variants, and a variant-specific serial number.
 
-Type: Machine type, represented by three categories: H, M, and L.
+type: Machine type, represented by three categories: H, M, and L.
 
 air temperature [K]: The air temperature in Kelvin.
 
@@ -21,7 +21,7 @@ torque [Nm]: The torque values for the drilling process.
 
 tool wear [min]: The amount of time the tool has been used in minutes, indicating tool wear.
 
-Failure Type: The target variable indicating the type of failure.
+failure type: The target variable indicating the type of failure.
 
 **Data Preprocessing:** Necessary preprocessing steps were applied to the dataset. This included handling missing and duplicate values and outliers.
 Exploratory data analysis (EDA) was done for visualization and gaining of more insights on the dataset and understand the relationships between variables.
